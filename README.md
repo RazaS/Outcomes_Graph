@@ -5,7 +5,7 @@ The network graph was created to visualize heterogeneity in trial outcome report
 The size of nodes represents the number of outcomes within each cluster
 Created using iGraph package in R
 
-(I am not at liberty to share the final more refined version or further details as we are in the process of publishing this)
+I am not at liberty to share the final more refined version or further details as we are in the process of publishing this
  
 ![Outcomes Network Graph]("https://github.com/RazaS/Outcomes_Graph/blob/master/test_file_UKPSR_test32.png")
 
